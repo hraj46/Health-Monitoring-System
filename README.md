@@ -83,5 +83,5 @@ Deploying the model on Cloud (AWS/GCP) for real-world scalability.
 
 📩 Contact
 
-🔹 GitHub: www.github.com/hraj46/🔹 Email: rajhimanshu7452@gmail.com
+🔹 GitHub: https://github.com/hraj46/ 🔹 Email: rajhimanshu7452@gmail.com
 
