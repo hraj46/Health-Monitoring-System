@@ -44,14 +44,12 @@ Storage: Pickle (.pkl files for model & scaler)
 🏗️ Project Structure
 
 health-monitoring-system/
-│── models/               # Stores model.pkl & scaler.pkl
-│── static/               # CSS & Images (Aesthetic Background)
-│── templates/            # HTML Files (Flask Frontend)
-│── train_model.py        # Generates & saves ML model
-│── load_model.py         # Loads model for testing
-│── app.py                # Flask App (Frontend for Prediction)
-│── requirements.txt      # Required dependencies
-│── README.md             # Project Report
+models/               # Stores model.pkl & scaler.pkl
+static/               # CSS & Images (Aesthetic Background)
+templates/            # HTML Files (Flask Frontend)
+app.py                # Flask App (Frontend for Prediction)
+requirements.txt      # Required dependencies
+README.md             # Project Report
 
 🚀 Run the Application
 
