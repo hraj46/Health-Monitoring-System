@@ -47,9 +47,11 @@ health-monitoring-system/
 1) models/               # Stores model.pkl & scaler.pkl
 2) static/               # CSS & Images (Aesthetic Background)
 3) templates/            # HTML Files (Flask Frontend)
-4) app.py                # Flask App (Frontend for Prediction)
-5) requirements.txt      # Required dependencies
-6) README.md             # Project Report
+4) train_model.py        # Generates & saves ML model
+5) load_model.py         # Loads model for testing
+6) app.py                # Flask App (Frontend for Prediction)
+7) requirements.txt      # Required dependencies
+8) README.md             # Project Report
 
 🚀 Run the Application
 
